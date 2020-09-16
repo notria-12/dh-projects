@@ -1,4 +1,5 @@
 const json = require('./json')
+console.log('Aroo')
 
 // relembrando criação de uma variável com let recebendo valor de uma string
 let organizacao = 'Petshop Node';
