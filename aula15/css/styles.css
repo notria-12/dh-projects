@@ -1,0 +1,16 @@
+.header{
+    height: 150px;
+    background-color: aquamarine;
+    margin-bottom: 15px;
+}
+
+.section{
+    height: 150px;
+    background-color: blueviolet;
+    /* margin-left: 10px; */
+    margin-bottom: 15px;
+}
+.destaques{
+    background-color: brown;
+    height: 150px;
+}
